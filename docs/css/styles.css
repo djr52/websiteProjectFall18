@@ -14,7 +14,8 @@ body {
 
 }
 .jumbotron{
-    background-image: url("../images/background-image1.jpg")
+    background-image: url("../images/background-image1.jpg");
+
 
 }
 .jumbotron-fluid{
@@ -48,4 +49,8 @@ body {
 .lead{
     color: white;
     padding-left: 15px;
+}
+.card{
+    border:none;
+
 }
